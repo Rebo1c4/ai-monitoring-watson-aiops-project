@@ -1,5 +1,6 @@
-# ai-monitoring-watson-aiops-project
-Project summary: Modernizing Telecom Monitoring with IBM Netcool &amp; Watson AIOps
+# 📡 AI Monitoring & Automation Project: Netcool + Watson AIOps
+
+**Project summary:** Modernizing Telecom Monitoring with IBM Netcool & Watson AIOps
 
 I led the modernization of a large-scale event and performance monitoring system for a telecom provider in Latin America, combining **IBM Netcool**, **IoT sensors**, and **Watson AIOps** to enable predictive insights and reduce operational noise.
 
@@ -9,15 +10,15 @@ This project included architecture design, technical demos, customer training, a
 
 ---
 
-## 🧠 Tools & Technologies Used
+## 🧰 Tools & Technologies Used
 
-- IBM Netcool OMNIbus
-- Watson AIOps
-- Probes: SNMP, Syslog, API integrations
-- Linux environment
-- Event noise reduction and correlation
-- ServiceNow (for incident automation)
-- Real-time dashboards (customized)
+- 🏢 **IBM Netcool OMNIbus** (event management)
+- 🤖 **Watson AIOps** (AI correlation, automation)
+- 🛰️ **Probes**: SNMP, Syslog, APIs
+- 🐧 **Linux** (Red Hat & Ubuntu-based deployment)
+- 📉 Event correlation, deduplication, suppression
+- 🛠️ **ServiceNow** (ITSM integration)
+- 📊 Custom real-time dashboards (web UI & ops teams)
 
 ---
 
@@ -25,13 +26,16 @@ This project included architecture design, technical demos, customer training, a
 
 This project enabled a telecom provider to modernize legacy systems, reduce MTTR, and proactively address infrastructure issues. It showcases my end-to-end involvement, including:
 
-- Monitoring strategy and AI-based automation
-- Technical analysis, sizing, and architecture blueprint
-- Solution design, integration planning, and installation
-- Hands-on implementation across hybrid environments
-- Documentation including HLDs, LLDs, Implementation Guides, Test Plans, SoWs, and MoPs
+- 🧭 Monitoring strategy and AI-based automation
+- 📐 Technical analysis, sizing, and architecture blueprint
+- 🧩 Solution design, integration planning, and installation
+- 🛠️ Hands-on implementation across hybrid environments
+- 📄 Documentation including:
+  - HLDs (High-Level Designs)
+  - LLDs (Low-Level Designs)
+  - Implementation Guides
+  - Test Plans, SoWs, and MoPs
 
 From the initial technical discovery to the final delivery, I supported the full lifecycle — combining hands-on expertise with clear communication, planning, and execution aligned to business outcomes.
 
-I’m passionate about solving real operational problems using smart AI-driven tools — and this aligns with TRACTIAN’s mission to empower frontline maintenance through technology.
-
+💡 I’m passionate about solving real operational problems using smart AI-driven tools — and this aligns with **TRACTIAN’s mission** to empower frontline maintenance through intelligent, connected technology.
